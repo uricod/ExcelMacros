@@ -3,6 +3,14 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+
+# Comments
+
+The first macro finds comments on your data and prints them out in first open column but on same row.
+
+The second macro moves entire row to new sheet for more examination. 
+
+
 # Split Data
 
 This Macro splits table rows (based off column F) into seperate worksheets. 
