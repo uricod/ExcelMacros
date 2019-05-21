@@ -19,3 +19,8 @@ It then creates new workbooks for each worksheet and saved them in a location yo
 It starts looping only from row 2. It also only copies column A:J. Change according to your needs. 
 
 Just copy and paste code into your VBA Module and change the Column Number to your desired column.
+
+# Ordinal Suffix Function
+
+This switches numbers from cardinal numbers into ordinal numbers. Used for addresses in many locations. 
+
