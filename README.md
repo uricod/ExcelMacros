@@ -10,6 +10,7 @@ The first macro finds comments on your data and prints them out in first open co
 
 The second macro moves entire row to new sheet for more examination. 
 
+Link to post: https://bit.ly/2XZC3eQ
 
 # Split Data
 
