@@ -24,3 +24,8 @@ Just copy and paste code into your VBA Module and change the Column Number to yo
 
 This switches numbers from cardinal numbers into ordinal numbers. Used for addresses in many locations. 
 
+# Fit By Column Header
+
+This code fits columns by header size in row 1. It will work regardless of Font Size. 
+
+Link to post: https://bit.ly/2MSpwJf
