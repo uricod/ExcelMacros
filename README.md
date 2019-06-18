@@ -35,13 +35,13 @@ Link to post: https://bit.ly/2MSpwJf
 
 # Full Contact API
 
-######Requirements:
+###### Requirements:
 
 1. A Full Contact API Key generated here: https://bit.ly/2Rj8RwW
 2. Json Converter Library for VBA. Link: https://bit.ly/2ZCrO0J
 3. Add reference to Microsoft Scripting Runtime under tools>references.
 
-######Description:
+###### Description:
 
 This Macro pulls the full contact info for the email in the active cell.
 You can run for company or phone numbers by editing end points.
