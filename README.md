@@ -32,3 +32,19 @@ Link to post: https://bit.ly/2wSGwnZ
 This code fits columns by header size in row 1. It will work regardless of Font Size. 
 
 Link to post: https://bit.ly/2MSpwJf
+
+# Full Contact API
+
+Requirements:
+
+1. A Full Contact API Key generated here: https://bit.ly/2Rj8RwW
+2. Json Converter Library for VBA. Link: https://bit.ly/2ZCrO0J
+3. Add reference to Microsoft Scripting Runtime under tools>references.
+
+Description:
+
+This Macro pulls the full contact info for the email in the active cell.
+You can run for company or phone numbers by editing end points.
+Full Documentation is: https://bit.ly/2WQQgP4
+
+Link to post: https://bit.ly/2wZtgxX
