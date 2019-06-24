@@ -49,7 +49,7 @@ Full Documentation is: https://bit.ly/2WQQgP4
 
 Link to post: https://bit.ly/2wZtgxX
 
-#Filter By Last Week
+# Filter By Last Week
 
 ###### Description:
 This code will filter data to only the last week. In the code the date was in column C. Change as needed.
