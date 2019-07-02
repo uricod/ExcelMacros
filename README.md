@@ -55,3 +55,11 @@ Link to post: https://bit.ly/2wZtgxX
 This code will filter data to only the last week. In the code the date was in column C. Change as needed.
 
 Link to post: https://bit.ly/31RHeA5
+
+# Protect Sheet
+
+###### Description:
+The first sub will lock sheet excluding your selected cell or range. Second sub will unlock sheet and reset your selected cell/range lock property.
+
+Link to post: https://bit.ly/2NvM8Q6
+
