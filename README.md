@@ -3,6 +3,17 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+# Capture
+VBA code to capture full screen and attach to email. 
+Second Module captures screen based off size of rows and columns and attaches to email. 
+
+Requirements:
+You will need to download Boxcutter application http://keepnote.org/boxcutter/. 
+Change the path to application in macro according to where installed on your computer. 
+
+Add References to Microsoft Outlook and Microsoft Scriptime Runtime in VBA Tools>References. 
+
+Link to post: https://bit.ly/332lD8I
 
 # Comments
 
