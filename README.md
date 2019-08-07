@@ -3,6 +3,18 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+# Mul Vlookup
+VBA Custom Function (known as UDF) that returns all matches for a Vlookup in an array.
+
+This returns an array which in excel requires selecting mutliple cells then clicking CTRL + SHFT + ENTER.
+
+parameters of Function are:
+1. SearchValue - The value you are attempting to search in Table. Can be hard coded or Cell.
+2. SearchInCol - Column where you are matching the search value to.
+3. ReturnVal - Column which you are pulling the values from. Should be same size as parameter 2. 
+
+Link to post: http://bit.ly/2OJ2l4U
+
 # Capture
 VBA code to capture full screen and attach to email. 
 Second Module captures screen based off size of rows and columns and attaches to email. 
