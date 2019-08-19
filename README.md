@@ -3,6 +3,14 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+# Color Fun
+
+VBA Custom Function that sums up columns by cell color and function that sums up columns by font color.
+
+First Argument is Range to sum, while second agrument is color. (Must be range that contains the color criteria)
+
+Link to post: http://bit.ly/2HdLNMs
+
 # Mul Vlookup
 VBA Custom Function (known as UDF) that returns all matches for a Vlookup in an array.
 
