@@ -5,7 +5,7 @@ https://www.linkedin.com/in/urinussbaum/
 
 # Sum Text
 
-VBA Custom Function to imporove on Excel Concat Function. 
+VBA Custom Function to improve on Excel Concat Function. 
 
 This adds together Excel Range of Text with adding a seperator between each cell. 
 
