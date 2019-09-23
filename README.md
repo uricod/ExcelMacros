@@ -3,6 +3,14 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+# Sum Text
+
+VBA Custom Function to imporove on Excel Concat Function. 
+
+This adds together Excel Range of Text with adding a seperator between each cell. 
+
+Link to post: http://bit.ly/2mAMw2M
+
 # Color Fun
 
 VBA Custom Function that sums up columns by cell color and function that sums up columns by font color.
