@@ -3,6 +3,12 @@ This repository includes the VBA code for videos posted on my Linkedin page.
 
 https://www.linkedin.com/in/urinussbaum/
 
+# Multiple Column Vlookup
+
+VBA Custom Function to lookup a range of values in mutliple columns. 
+
+Link to post: http://bit.ly/2mphQ4w
+
 # Sum Text
 
 VBA Custom Function to improve on Excel Concat Function. 
