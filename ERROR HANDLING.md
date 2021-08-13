@@ -6,14 +6,14 @@
 
 > THE ERROR TYPES ARE BELOW:
 
-> 1 = #NULL!|
-> 2 = #DIV/0!|
-> 3 = #VALUE!|
-> 4 = #REF!|
-> 5 = #NAME?|
-> 6 = #NUM!|
-> 7 = #N/A|
-> 8 = #GETTING_DATA|
+1. = #NULL!
+2. = #DIV/0!
+3. = #VALUE!
+4. = #REF!
+5. = #NAME?
+6. = #NUM!
+7. = #N/A
+8. = #GETTING_DATA
 
 
 
